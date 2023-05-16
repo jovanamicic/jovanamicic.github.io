@@ -5,5 +5,4 @@
 layout: home
 ---
 
-Hello world
-
+Hello world! This is my personal page. 
